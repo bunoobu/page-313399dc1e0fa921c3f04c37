@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.ovmvcoi.cn/sitemap.xml
